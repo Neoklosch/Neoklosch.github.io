@@ -111,13 +111,13 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/dubsmash.jpg"
+  - image: "/img/timeline/dubsmash.png"
     date: "Mai 2016 - Mai 2017"
     description: "Android developer at Dubsmash"
-  - image: "/img/timeline/ieee_big_data.jpg"
+  - image: "/img/timeline/ieee_big_data.png"
     date: "September 2013"
     description: "Publication at IEEE BigData 2016: Visually Programming Dataflows for Distributed Data Analytics"
-  - image: "/img/timeline/cgm.jpg"
+  - image: "/img/timeline/cgm.png"
     date: "October 2015 - February 2016"
     description: "Android developer at CompuGroup Medical AG"
   - image: "/img/timeline/studies.png"
