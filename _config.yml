@@ -114,36 +114,75 @@ events:
   - image: "/img/timeline/motey.jpg"
     date: "Mai 2017"
     description: "Created the [Motey](https://github.com/Neoklosch/Motey) project"
+
   - image: "/img/timeline/dubsmash.png"
     date: "Mai 2016 - Mai 2017"
     description: "Android developer at Dubsmash"
+
   - image: "/img/timeline/pong.png"
     date: "December 2016"
-    description: "Created the Pongduino project"
+    description: "Created the [Pongduino](https://github.com/Neoklosch/Pongduino) project"
+
   - image: "/img/timeline/ieee_big_data.png"
     date: "December 2016"
-    description: "Publication at IEEE BigData 2016: Visually Programming Dataflows for Distributed Data Analytics"
+    description: "Publication at IEEE BigData 2016: [Visually Programming Dataflows for Distributed Data Analytics](http://ieeexplore.ieee.org/document/7840860/)"
+
   - image: "/img/timeline/crlf.jpg"
-    date: "December 2016"
-    description: "Created the crlf-helper project"
+    date: "December 2015"
+    description: "Created the [crlf-helper](https://github.com/Neoklosch/crlf-helper) project"
+
+  - image: "/img/timeline/asciitableflip.png"
+    date: "November 2015"
+    description: "GDG DevFest Berlin 2015 - Created [AsciiTableFlip](https://github.com/kollektivpp/AsciiTableFlip) project"
+
+  - image: "/img/timeline/db_hackathon.png"
+    date: "November 2015"
+    description: "3rd DB Hackathon - Created [DB API Server](https://github.com/Neoklosch/db-api-server) and [GamDBit-Server](https://github.com/Neoklosch/GamDBit-Server)"
+
   - image: "/img/timeline/cgm.png"
     date: "October 2015 - February 2016"
     description: "Android developer at CompuGroup Medical AG"
+
+  - image: "/img/timeline/uqu.png"
+    date: "June 2015"
+    description: "Salesforce HackNWear - Created [uQu](https://github.com/Cookie-Monsters/uQu-Backend) project"
+
+  - image: "/img/timeline/donator.png"
+    date: "April 2015"
+    description: "Wincor Nixdorf Hackfest - Created [Donator](http://www.wincor-nixdorf.com/internet/site_KR/DE/WincorNixdorf/Press/pressreleases/2015/hackfestd.html?nn=1251010) project"
+
   - image: "/img/timeline/studies.png"
     date: "October 2014 - today"
     description: "Master of Science, computer science, TU Berlin"
+
+  - image: "/img/timeline/beatingblocks.png"
+    date: "November 2014"
+    description: "GDG DevFest Berlin 2014 - Created [BeatingBlocks](https://github.com/kollektivpp/BeatingBlocks) project"
+
+  - image: "/img/timeline/jsconf.png"
+    date: "September 2014"
+    description: "JSConf EU 2014"
+
+  - image: "/img/timeline/droidcon.png"
+    date: "May 2014"
+    description: "Joined the droidcon Berlin"
+
   - image: "/img/timeline/android.jpg"
     date: "April 2013 - September 2015"
     description: "Android and web developer at SinnerSchrader Mobile"
+
   - image: "/img/timeline/idaacs.jpg"
     date: "September 2013"
-    description: "Publication at IDAACS’2013: Interactive Media Facade Web Application with ClusterGL"
+    description: "Publication at IDAACS’2013: [Interactive Media Facade Web Application with ClusterGL](http://ieeexplore.ieee.org/document/6662676/)"
+
   - image: "/img/timeline/bachelor.png"
     date: "October 2010 - August 2013"
-    description: "Bachelor of Science, Applied computer science 1,8, HTW Berlin"
+    description: "Bachelor of Science, Applied computer science 1.8, HTW Berlin"
+
   - image: "/img/timeline/black-belt.jpg"
     date: "April 2006"
     description: "Becomes a black belt in Karate"
+
   - image: "/img/timeline/start.jpg"
     date: "November 2005"
     description: "Started coding"
