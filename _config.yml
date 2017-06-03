@@ -111,7 +111,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/motey.jpg"
+  - image: "/img/timeline/motey.png"
     date: "Mai 2017"
     description: "Created the [Motey](https://github.com/Neoklosch/Motey) project"
 
@@ -135,7 +135,7 @@ events:
     date: "November 2015"
     description: "GDG DevFest Berlin 2015 - Created [AsciiTableFlip](https://github.com/kollektivpp/AsciiTableFlip) project"
 
-  - image: "/img/timeline/gdg_berlin.png"
+  - image: "/img/timeline/medienfassade.jpg"
     date: "November 2015"
     description: "Joined GDG DevFest Berlin 2015"
 
