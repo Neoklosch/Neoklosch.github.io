@@ -159,7 +159,7 @@ events:
     date: "October 2014 - today"
     description: "Master of Science, computer science, TU Berlin"
 
-  - image: "/img/timeline/beatingblocks.png"
+  - image: "/img/timeline/beatingblocks.jpg"
     date: "November 2014"
     description: "GDG DevFest Berlin 2014 - Created [BeatingBlocks](https://github.com/kollektivpp/BeatingBlocks) project"
 
@@ -233,6 +233,8 @@ author_blurb_image: "/img/author.jpg"
 ##################
 
 social:
+  - title: "linkedin"
+    url: "https://de.linkedin.com/in/markus-paeschke-3a7434134"
   - title: "twitter"
     url: "https://twitter.com/neoklosch"
   - title: "github"
