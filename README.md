@@ -1,3 +1,3 @@
 # { Neoklosch } Jekyll Theme
 
-This is a rork of [Timeline](https://github.com/kirbyt/timeline-jekyll-theme)
+This is a fork of [Timeline](https://github.com/kirbyt/timeline-jekyll-theme)
