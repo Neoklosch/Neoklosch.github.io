@@ -135,6 +135,10 @@ events:
     date: "November 2015"
     description: "GDG DevFest Berlin 2015 - Created [AsciiTableFlip](https://github.com/kollektivpp/AsciiTableFlip) project"
 
+  - image: "/img/timeline/gdg_berlin.png"
+    date: "November 2015"
+    description: "Joined GDG DevFest Berlin 2015"
+
   - image: "/img/timeline/db_hackathon.png"
     date: "November 2015"
     description: "3rd DB Hackathon - Created [DB API Server](https://github.com/Neoklosch/db-api-server) and [GamDBit-Server](https://github.com/Neoklosch/GamDBit-Server)"
@@ -159,6 +163,10 @@ events:
     date: "November 2014"
     description: "GDG DevFest Berlin 2014 - Created [BeatingBlocks](https://github.com/kollektivpp/BeatingBlocks) project"
 
+  - image: "/img/timeline/devfest_2014.jpg"
+    date: "November 2014"
+    description: "Joined GDG DevFest Berlin 2014"
+
   - image: "/img/timeline/jsconf.png"
     date: "September 2014"
     description: "JSConf EU 2014"
@@ -171,9 +179,21 @@ events:
     date: "April 2013 - September 2015"
     description: "Android and web developer at SinnerSchrader Mobile"
 
+  - image: "/img/timeline/devfest_2013.png"
+    date: "November 2013"
+    description: "Joined GDG DevFest Berlin 2013"
+
+  - image: "/img/timeline/idaacs.jpg"
+    date: "September 2013"
+    description: "Talk about \"Interactive Media Facade Web Application with ClusterGL\" at the IDAACS’2013"
+
   - image: "/img/timeline/idaacs.jpg"
     date: "September 2013"
     description: "Publication at IDAACS’2013: [Interactive Media Facade Web Application with ClusterGL](http://ieeexplore.ieee.org/document/6662676/)"
+
+  - image: "/img/timeline/vr.png"
+    date: "March 2013"
+    description: "Talk about \"Augmented reality - studentproject meventr\" at the 13. International Students Academic Presentation at the Yuanpei University in Taiwan"
 
   - image: "/img/timeline/bachelor.png"
     date: "October 2010 - August 2013"
