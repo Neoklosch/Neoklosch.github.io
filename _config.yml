@@ -117,7 +117,7 @@ events:
 
   - image: "/img/timeline/dubsmash.png"
     date: "Mai 2016 - Mai 2017"
-    description: "Android developer at Dubsmash"
+    description: "Android developer at [Dubsmash](https://www.dubsmash.com/)"
 
   - image: "/img/timeline/pong.png"
     date: "December 2016"
@@ -133,11 +133,7 @@ events:
 
   - image: "/img/timeline/asciitableflip.png"
     date: "November 2015"
-    description: "GDG DevFest Berlin 2015 - Created [AsciiTableFlip](https://github.com/kollektivpp/AsciiTableFlip) project"
-
-  - image: "/img/timeline/medienfassade.jpg"
-    date: "November 2015"
-    description: "Joined GDG DevFest Berlin 2015"
+    description: "GDG DevFest Berlin 2015 - Attended to the conference and created the [AsciiTableFlip](https://github.com/kollektivpp/AsciiTableFlip) project at the hackathon"
 
   - image: "/img/timeline/db_hackathon.png"
     date: "November 2015"
@@ -145,7 +141,7 @@ events:
 
   - image: "/img/timeline/cgm.png"
     date: "October 2015 - February 2016"
-    description: "Android developer at CompuGroup Medical AG"
+    description: "Android developer at [CompuGroup Medical AG](https://www.cgm.com/de/index.de.jsp)"
 
   - image: "/img/timeline/uqu.png"
     date: "June 2015"
@@ -161,35 +157,27 @@ events:
 
   - image: "/img/timeline/beatingblocks.jpg"
     date: "November 2014"
-    description: "GDG DevFest Berlin 2014 - Created [BeatingBlocks](https://github.com/kollektivpp/BeatingBlocks) project"
-
-  - image: "/img/timeline/devfest_2014.jpg"
-    date: "November 2014"
-    description: "Joined GDG DevFest Berlin 2014"
+    description: "GDG DevFest Berlin 2014 - Attended to the conference and created the [BeatingBlocks](https://github.com/kollektivpp/BeatingBlocks) project at the hackathon"
 
   - image: "/img/timeline/jsconf.png"
     date: "September 2014"
-    description: "JSConf EU 2014"
+    description: "Attended to the JSConf EU 2014"
 
   - image: "/img/timeline/droidcon.png"
     date: "May 2014"
-    description: "Joined the droidcon Berlin"
+    description: "Attended to the droidcon Berlin"
 
   - image: "/img/timeline/android.jpg"
     date: "April 2013 - September 2015"
-    description: "Android and web developer at SinnerSchrader Mobile"
+    description: "Android and web developer at [SinnerSchrader Mobile](https://sinnerschraderswipe.com/)"
 
   - image: "/img/timeline/devfest_2013.png"
     date: "November 2013"
-    description: "Joined GDG DevFest Berlin 2013"
-
-  - image: "/img/timeline/medienfassade.jpg"
-    date: "September 2013"
-    description: "Talk about \"Interactive Media Facade Web Application with ClusterGL\" at the IDAACS’2013"
+    description: "Attended to GDG DevFest Berlin 2013"
 
   - image: "/img/timeline/idaacs.jpg"
     date: "September 2013"
-    description: "Publication at IDAACS’2013: [Interactive Media Facade Web Application with ClusterGL](http://ieeexplore.ieee.org/document/6662676/)"
+    description: "Publication and related talk at IDAACS’2013: [Interactive Media Facade Web Application with ClusterGL](http://ieeexplore.ieee.org/document/6662676/)"
 
   - image: "/img/timeline/vr.png"
     date: "March 2013"
@@ -198,6 +186,10 @@ events:
   - image: "/img/timeline/bachelor.png"
     date: "October 2010 - August 2013"
     description: "Bachelor of Science, Applied computer science 1.8, HTW Berlin"
+
+  - image: "/img/timeline/e-confirm.jpg"
+    date: "March 2008 - March 2013"
+    description: "Webdeveloper at [e-confirm](http://e-confirm.de/)"
 
   - image: "/img/timeline/black-belt.jpg"
     date: "April 2006"
