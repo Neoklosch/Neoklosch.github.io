@@ -231,8 +231,6 @@ social:
     url: "https://twitter.com/neoklosch"
   - title: "github"
     url: "https://github.com/neoklosch"
-  - title: "rss"
-    url: "/feed.xml"
 
 ############
 # 404 page #
