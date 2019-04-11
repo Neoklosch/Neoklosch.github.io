@@ -17,3 +17,7 @@ _deploy/*
 Rakefile
 .jekyll-metadata
 /.idea/
+
+# Gradle files
+.gradle/
+
