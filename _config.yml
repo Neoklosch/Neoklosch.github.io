@@ -111,6 +111,10 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/tr.svg"
+    date: "Sep 2017 - May 2019"
+    description: "Created the [Trade Republic](https://play.google.com/store/apps/details?id=de.traderepublic.app) Android app from scratch"
+
   - image: "/img/timeline/motey.png"
     date: "Mai 2017"
     description: "Created the [Motey](https://github.com/Neoklosch/Motey) project"
