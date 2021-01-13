@@ -111,6 +111,10 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/akelius.png"
+    date: "Jun 2019 - Today"
+    description: "Senior Backend Developer at [Akelius](https://www.akelius.com/en)"
+
   - image: "/img/timeline/tr.png"
     date: "Sep 2017 - May 2019"
     description: "Created the [Trade Republic](https://play.google.com/store/apps/details?id=de.traderepublic.app) Android app from scratch"
